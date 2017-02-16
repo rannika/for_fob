@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SiseBasicTest">
+  <test name="sisetest001">
+    <classes>
+      <class name="sisetest.sise1_appl"/>
+       <class name="sisetest.sise2_inpt"/>
+      <class name="sisetest.sise2_click"/>
+       </classes>
+  </test> <!-- sisetest001 -->
+</suite> <!-- SiseBasicTest -->
